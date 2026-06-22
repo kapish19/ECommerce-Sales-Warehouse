@@ -1,0 +1,11 @@
+user_id,email,username,first_name,last_name,phone_num,street,city,zip_code,long,lat
+1,john@gmail.com,johnd,john,doe,1-570-236-7033,new road,kilcoole,12926-3874,81.1496,-37.3159
+2,morrison@gmail.com,mor_2314,david,morrison,1-570-236-7033,Lovers Ln,kilcoole,12926-3874,81.1496,-37.3159
+3,kevin@gmail.com,kevinryan,kevin,ryan,1-567-094-1345,Frances Ct,Cullman,29567-1452,-30.131,40.3467
+4,don@gmail.com,donero,don,romer,1-765-789-6734,Hunters Creek Dr,San Antonio,98234-1734,-20.131,50.3467
+5,derek@gmail.com,derek,derek,powell,1-956-001-1945,adams St,san Antonio,80796-1234,-40.131,40.3467
+6,david_r@gmail.com,david_r,david,russell,1-678-345-9856,prospect st,el paso,12346-0456,-10.6789,20.1677
+7,miriam@gmail.com,snyder,miriam,snyder,1-123-943-0563,saddle st,fresno,96378-0245,20.6419,10.3456
+8,william@gmail.com,hopkins,william,hopkins,1-478-001-0890,vally view ln,mesa,96378-0245,10.6419,50.3456
+9,kate@gmail.com,kate_h,kate,hale,1-678-456-1934,avondale ave,miami,96378-0245,20.5419,40.12456
+10,jimmie@gmail.com,jimmie_k,jimmie,klein,1-104-001-4567,oak lawn ave,fort wayne,10256-4532,-20.545419,30.24788

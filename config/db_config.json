@@ -1,0 +1,7 @@
+{
+    "dbname": "sales_analytics",
+    "user": "postgres",
+    "password": "123123",
+    "host": "localhost",
+    "port": 5432
+}
